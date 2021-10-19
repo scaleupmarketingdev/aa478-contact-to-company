@@ -10,6 +10,5 @@
   carrying the variables contactId, IndustryType, Delegate, Speaker & IndustryDescription.
   
   It will first search for the "Company" and "CompanyID" data from the contact using the "contactId" variable data.
-  
   dqwdqwdq
 </p>
